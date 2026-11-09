@@ -2,5 +2,5 @@
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me gmail:dautovalisher33@gmail.com or telegram:@freboy1
+- 📫 How to reach me gmail:dautovalisher33@gmail.com or telegram:@alisher_the_great
 - 😄 Pronoun: Crossiant
